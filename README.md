@@ -1,4 +1,4 @@
-# Basic JavaScript Practice v2
+# Basic JavaScript Practice v2 - Answer
 
 In this practice, you will be taking some of the exercises you performed in Part
 1 using the browser's console, and rewriting them into JavaScript files.
